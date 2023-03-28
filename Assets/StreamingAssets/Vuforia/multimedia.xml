@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fore" size="40.000000 40.000000" />
+    <ImageTarget name="TheKoi" size="40.000000 25.000000" />
+    <ImageTarget name="Starbucks" size="40.000000 41.104973" />
+    <ImageTarget name="RotiBoy" size="40.000000 22.500000" />
+    <ImageTarget name="KopiKenangan" size="40.000000 20.983606" />
+    <ImageTarget name="Chatime" size="40.000000 40.000000" />
+    <ImageTarget name="BurgerKing" size="40.000000 40.000000" />
+    <ImageTarget name="4Fingers" size="40.000000 40.000000" />
+  </Tracking>
+</QCARConfig>
